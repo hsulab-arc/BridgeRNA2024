@@ -1,0 +1,18 @@
+workdir: "WORKDIR"
+oligo_info: "oligo_info.tsv"
+single_mismatch_sets: "single_mismatch_sets.tsv"
+
+umi_amplicon_dir: "00.umi_amplicon"
+umi_fastq_dir: '00.umi_fastq'
+umi_clean_dir: '01.umi_clean'
+umi_align_dir: '02.umi_align'
+umi_variable_regions_dir: '03.umi_variable_regions'
+umi_final_mapping_dir: '04.umi_final_mapping'
+
+screen_amplicon_dir: '00.screen_amplicon'
+screen_fastq_dir: '00.screen_fastq'
+screen_clean_dir: '05.screen_clean'
+screen_align_dir: '06.screen_align'
+screen_umi_dir: '07.screen_umis'
+screen_oligo_counts_dir: '08.screen_oligo_counts'
+visualize_dir: '09.visualize'

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="839e4f2b-aa00-490a-aff8-7d3b2f9982ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OIRXQ1RSinJbh5hbHr9tg9Loec" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fte/PycharmProjects/BridgeRNA2024&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bridgeanalysis/scripts" />
+      <recent name="$PROJECT_DIR$/bridgeanalysis" />
+      <recent name="$PROJECT_DIR$/bridgeanalysis/snakemake" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="839e4f2b-aa00-490a-aff8-7d3b2f9982ea" name="Changes" comment="" />
+      <created>1681246149417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681246149417</updated>
+      <workItem from="1681246152429" duration="20908000" />
+      <workItem from="1681335453592" duration="4258000" />
+      <workItem from="1681358456932" duration="3416000" />
+      <workItem from="1681404239237" duration="37049000" />
+      <workItem from="1681767488499" duration="3155000" />
+      <workItem from="1681918990149" duration="2890000" />
+      <workItem from="1682264392021" duration="4236000" />
+      <workItem from="1682619544480" duration="30620000" />
+      <workItem from="1682809603639" duration="42626000" />
+      <workItem from="1683900471230" duration="30504000" />
+      <workItem from="1684268531693" duration="15000" />
+      <workItem from="1684270484219" duration="1253000" />
+      <workItem from="1684428211507" duration="5104000" />
+      <workItem from="1684436656895" duration="4239000" />
+      <workItem from="1684606374784" duration="22972000" />
+      <workItem from="1684770258047" duration="20000" />
+      <workItem from="1684856145322" duration="4039000" />
+      <workItem from="1685248024903" duration="2595000" />
+      <workItem from="1685589024536" duration="2432000" />
+      <workItem from="1685849994331" duration="9306000" />
+      <workItem from="1686342988620" duration="11000" />
+      <workItem from="1686848478668" duration="6332000" />
+      <workItem from="1687541765326" duration="2399000" />
+      <workItem from="1687799931744" duration="62547000" />
+      <workItem from="1688153176832" duration="8504000" />
+      <workItem from="1688568510903" duration="14031000" />
+      <workItem from="1689284831559" duration="1528000" />
+      <workItem from="1689694453699" duration="6573000" />
+      <workItem from="1690211291581" duration="42000" />
+      <workItem from="1690427235328" duration="3361000" />
+      <workItem from="1691166433052" duration="774000" />
+      <workItem from="1691624674814" duration="598000" />
+      <workItem from="1692397351212" duration="632000" />
+      <workItem from="1692631049894" duration="359000" />
+      <workItem from="1692926828165" duration="1785000" />
+      <workItem from="1693249185012" duration="7556000" />
+      <workItem from="1694625697653" duration="7414000" />
+      <workItem from="1695245204151" duration="816000" />
+      <workItem from="1695316560764" duration="4064000" />
+      <workItem from="1695830514381" duration="20000" />
+      <workItem from="1696881970600" duration="2060000" />
+      <workItem from="1697590334374" duration="613000" />
+      <workItem from="1701144855026" duration="1029000" />
+      <workItem from="1702495602028" duration="3709000" />
+      <workItem from="1702592557072" duration="7740000" />
+      <workItem from="1702833654797" duration="37681000" />
+      <workItem from="1703214146363" duration="3201000" />
+      <workItem from="1703282600728" duration="5867000" />
+      <workItem from="1703805708710" duration="4241000" />
+      <workItem from="1704164079726" duration="883000" />
+      <workItem from="1704478119238" duration="15670000" />
+      <workItem from="1704992014111" duration="42359000" />
+      <workItem from="1705292283051" duration="1490000" />
+      <workItem from="1705294908367" duration="1056000" />
+      <workItem from="1705295971206" duration="17000" />
+      <workItem from="1705295990923" duration="3367000" />
+      <workItem from="1705683364073" duration="17413000" />
+      <workItem from="1706649974269" duration="164000" />
+      <workItem from="1709595588295" duration="3180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

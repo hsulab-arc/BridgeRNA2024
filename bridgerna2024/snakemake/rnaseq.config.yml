@@ -1,0 +1,9 @@
+workdir: "WORKDIR"
+
+fastq_dir: '00.fastq'
+plasmid_dir: '00.plasmid'
+clean_dir: '01.clean'
+merge_dir: '02.merge'
+align_dir: '03.align'
+coverage_dir: '04.coverage'
+results_dir: '05.results'

@@ -1,0 +1,22 @@
+workdir: "WORKDIR"
+
+sample_info: 'sample_info.tsv'
+genome_fasta: 'BL21_DE3.fasta'
+
+genome_dir: '00.genome'
+fastq_dir: '00.fastq'
+plasmid_dir: '00.plasmid'
+bridgerna_dir: '00.bridgerna'
+
+check_index_hopping_dir: '01.check_index_hopping'
+combined_downsampled_fastq_dir: '01.combined_downsampled_fastq'
+full_genome_align_dir: '02.full_genome_align'
+full_plasmid_align_dir: '02.full_plasmid_align'
+extracted_flanks_dir: '02.extracted_flanks'
+plasmid_aligned_extracted_flanks_dir: '03.plasmid_aligned_extracted_flanks'
+genome_aligned_extracted_flanks_dir: '03.genome_aligned_extracted_flanks'
+genome_align_noplasmid_dir: '03.genome_align_noplasmid'
+insertion_sites_dir: '04.insertion_sites'
+raw_structural_variants_dir: '04.raw_structural_variants'
+insertion_analysis_dir: '05.insertion_analysis'
+final_structural_variants_dir: '05.final_structural_variants'

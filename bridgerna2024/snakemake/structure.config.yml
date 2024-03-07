@@ -1,0 +1,39 @@
+workdir: "WORKDIR"
+database_dir: "00.database"
+query_dir: '00.query'
+search_dir: '01.search'
+retrieve_dir: '02.retrieve'
+filter_dir: '03.filter'
+foldalign_dir: '04.foldalign'
+visualize_dir: '05.visualize'
+
+is110_db: "IS110.db"
+is110_blastdb: "IS110_blastdb/IS110_tpases.faa"
+metadata: "metadata.tsv"
+
+retrieve_min_pident: 30.0
+retrieve_min_alnlen: 80.0
+retrieve_max_unique_proteins: 2000
+retrieve_max_flank_length: 2000
+retrieve_fiveprime_flank_offset: 50
+retrieve_threeprime_flank_offset: -50
+
+filter_fiveprime_flank_length: 350
+filter_threeprime_flank_length: 350
+filter_max_fiveprime_flank_length: 500
+filter_max_threeprime_flank_length: 500
+filter_cluster_tpase_min_pident: 95.0
+filter_cluster_tpase_min_alnlen: 80.0
+filter_cluster_flank_min_pident: 90.0
+filter_cluster_flank_min_alnlen: 80.0
+filter_infer_flank_length: false
+filter_max_seqs: 200
+filter_random_seq: false
+
+foldalign_aligner: "mafft-qinsi"
+foldalign_max_gaps: 50.0
+foldalign_fiveprime_user_seq: null
+foldalign_threeprime_user_seq: null
+foldalign_revcomp_fold: false
+foldalign_keep_user_seq_cols: false
+
