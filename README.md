@@ -1,7 +1,6 @@
 # BridgeRNA2024
 
-This code repository accompanies the paper ["Bridge RNAs direct modular and programmable recombination of target and 
-donor DNA"](https://www.biorxiv.org/content/10.1101/2024.01.24.577089v1) by Durrant & Perry et al, 2024.
+This code repository accompanies the paper ["Bridge RNAs direct programmable recombination of target and donor DNA"](https://www.nature.com/articles/s41586-024-07552-4) by Durrant & Perry et al, 2024.
 
 It includes snakemake pipelines and code for various key analyses described in the paper.
 
@@ -58,5 +57,5 @@ brna2024_docker_run <pipeline name> <number of threads> <workdir>
 ```
 
 # Citation
-Please cite [our paper](https://www.biorxiv.org/content/10.1101/2024.01.24.577089v1) if you use any aspect of this 
+Please cite [our paper](https://www.nature.com/articles/s41586-024-07552-4) if you use any aspect of this 
 code repository in your work.
